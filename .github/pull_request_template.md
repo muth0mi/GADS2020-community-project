@@ -1,0 +1,17 @@
+## What is the Purpose?
+Briefly describe what the PR addresses
+
+## What was the approach?
+Briefly describe the approach used to address the issue
+
+## How can the changes made get tested?
+Outline steps to test the changes made
+
+## Are there any concerns to addressed further before or after merging this PR?
+State some additional info if any. For instance installing a program or setting some environment variable(s)
+
+## Mentions?
+Mention persons you'd like to get notified about this PR
+
+## Issue(s) affected?
+List of issues addressed by this PR. 
