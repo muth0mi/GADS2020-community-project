@@ -80,6 +80,10 @@ A few of the things you can do:
 **End user goal:** Set rates for mentorship sessions. <br/>
 **Criteria:** * After passing the test get a card **Hourly Rates** * Prompt me to set a rate * Get a notification that you are now set to start tutoring
 
+1. In the mentor tab I want to be able to post announcements so I can reach out to potential mentees <br/>
+**End user goal:** Post Announcements. <br/>
+**Criteria:** * Show a button post announcement * Choose length to display the announcement * Add message and poster * Click Post 
+
 
 
 ## UI Mock-ups
